@@ -1,0 +1,21 @@
+.c-w-95 {
+    width: 95%;
+}
+
+.link-text {
+    font-size: 24px;
+    color: #ff0000c4;
+    font-weight: 600;
+    text-decoration: underline;
+}
+
+.image{
+    height: 150px;
+    width: 150px;
+    margin-left: 150px;
+    
+}
+.h3{
+    margin-left: 20px;
+    font-size: 25px;
+}
